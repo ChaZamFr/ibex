@@ -9,7 +9,7 @@ int main(int argc, char **argv) {
   pcount_reset();
   pcount_enable(1);
   
-  char s[10] = "ANIRUDH";
+  char s[10] = "RISCV";
   int l = 0, r;
   char t;
   
